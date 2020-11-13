@@ -1,0 +1,36 @@
+body{
+
+  background-color: #D4CEB6 ;
+  padding: 0px
+}
+
+h1{
+  text-align: center; padding-bottom: 1em;padding-top: 3em;
+  color: #6E5B34;
+  margin: 120px auto 80px auto;
+}
+h2{
+  text-align: justify; text-align: center;
+  color: #F5F2E4;
+}
+p{
+  text-align: justify; text-align: center;
+width: 650px;
+padding-bottom: 5em;
+  font: 35px/53px;
+  color: #574E1A;
+  display: table;
+  vertical-align: middle;
+}
+.container{
+  background: url('image/img_151583 copie.png')  50% 10px no-repeat;
+  width: 660px;
+  height: auto;
+  margin: 0 auto;
+  overflow: hidden;
+  display: block;
+  padding-bottom: 40px
+}
+.container2{
+  background: url('image/img_151583 copie2.png')  50% 10px no-repeat;
+  padding-top: 400px; padding-bottom: 180px

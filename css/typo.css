@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Philosopher&display=swap');
+
+h1{
+  font-family: 'Dancing Script', cursive;
+  font-size: 6em
+}
+h2{
+  font-family: 'Philosopher', sans-serif;
+  font-size: 4em
+}
+p{
+  font-family: 'Philosopher', sans-serif;
+  font-size: 2em
+}
